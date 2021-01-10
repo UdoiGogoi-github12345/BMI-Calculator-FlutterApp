@@ -20,3 +20,7 @@ The objective of this Project is to customise Flutter built-in Widgets to achiev
 - Custom colour palettes by using hex codes.
 - Understanding Dart Enums and the Ternary Operator.
 - Understanding the difference between const and final in Dart and when to use each.
+
+
+
+![Finished App](https://github.com/UdoiGogoi-github12345/BMI-Calculator-FlutterApp/blob/main/BMICalculator-FLUTTERAPP/Images/bmi-calc-demo.gif)
