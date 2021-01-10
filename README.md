@@ -7,12 +7,12 @@ A Flutter App for calculating the BMI(BODY MASS INDEX)of user based on the user 
 The objective of this Project is to customise Flutter built-in Widgets to achieve a beautiful user interface design.
 
 
-##BMI(BODY-MASS INDEX)
+## BMI(BODY-MASS INDEX)
  This Body Mass Index Calculator Flutter App takes Age,Height,Weight and Gender of a person to calculate the BMI of the person and provide remarks on the same.
  It is a multi screen app with simple functionality with custom styling.
 
 
-##Features
+## Features
 
 - Flutter themes to create coherent branding.
 - Creating multi-page apps using Flutter Routes and Navigator.
